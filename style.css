@@ -1,0 +1,13 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+#canvas {
+  background-color: antiquewhite;
+  padding: 5px;
+  margin: 5px;
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+}
